@@ -1,0 +1,5 @@
+com\qa\TestScripts\SeleniumScriptInTestNG.class
+com\qa\pages\basicControl.class
+com\qa\resources\ReadConfigFile.class
+com\qa\TestBase\TestBase.class
+com\qa\resources\DataDriventest.class
